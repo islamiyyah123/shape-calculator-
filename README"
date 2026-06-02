@@ -1,0 +1,12 @@
+# 📐 Object-Oriented Shape Calculator
+
+A Python program that uses Object-Oriented Programming (OOP) principles to model geometric shapes. It features a base class for rectangles and an optimized subclass for squares, allowing users to dynamically modify dimensions and compute areas and perimeters.
+
+## 🚀 Features
+* **Inheritance & Polymorphism**: Utilizes a clean `Square` subclass that inherits and overwrites logic from a master `Rectangle` class.
+* **Synchronized Dimensions**: Setting the side of a square automatically updates both its width and height behind the scenes.
+* **String Representation**: Features a custom `__str__` method to print out beautiful, human-readable shape data.
+
+## 🛠️ How to Run
+1. Make sure you have Python installed.
+2. Run the script using: `python calculator.py`
